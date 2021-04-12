@@ -15,6 +15,6 @@ The materials needed for this UT are just two computers (with working cameras an
 ## Survey 
 Click [here](https://docs.google.com/forms/d/e/1FAIpQLSe-4bd216p-AAIbl58SPru5aoJfpVWMpisGud-uNfdTYsOgQQ/viewform?usp=sf_link) to access the link to the survey. 
 ## Video 
-Click here to access the video recording of the UT session.
+Click [here]( to access the video recording of the UT session.
 ## Reflection 
 
