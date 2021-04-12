@@ -13,7 +13,7 @@ This UT would help evaluate a user's initial reactions to these issues, which ca
 The materials needed for this UT are just two computers (with working cameras and microphones), the Zoom application, and the Google Survey. The moderator (me) and participant will be sitting in separate rooms with the moderator screen recording the Zoom session and the participant sharing his/her/their screen with the Audiobooks HQ app shown. I will then read through all of the instructions, consent form, pre-test questionnaire, 3 tasks, post-test questionnaire, and demographic questionnaire, and then record the participant's answers. This is a pilot trial, so it will allow for future improvements to be made to any software or processes to the usability test. The survey is meant to encapsulate the entirety of a usability trial, so it is important to contain all of the elements for the participant to give consent and follow through all tasks. The demographic portion ofthe survey will not be recorded and will thus remain confidential. 
 
 ## Survey 
-Click here to access the link to the survey. 
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLSe-4bd216p-AAIbl58SPru5aoJfpVWMpisGud-uNfdTYsOgQQ/viewform?usp=sf_link) to access the link to the survey. 
 ## Video 
 Click here to access the video recording of the UT session.
 ## Reflection 
