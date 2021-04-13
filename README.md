@@ -15,7 +15,7 @@ The materials needed for this UT are just one computer (with working cameras and
 ## Survey 
 Click [here](https://docs.google.com/forms/d/e/1FAIpQLSe-4bd216p-AAIbl58SPru5aoJfpVWMpisGud-uNfdTYsOgQQ/viewform?usp=sf_link) to access the link to the survey. 
 ## Video 
-Click [here]( to access the video recording of the UT session.
+Click [here](https://drive.google.com/file/d/1-_fE2f_UnPX5wL8JABr9_cqWqDbBE0aQ/view?usp=sharing) to access the video recording of the UT session.
 ## Reflection 
 
 I think that overall, this was a pretty smooth UT session despite it being the first time doing so for both me and the participant. It was initially difficult to figure out how to record everything so both the app and the participant's reactions would be shown at the same time, but I quickly discovered a solution (screenrecording the app on the iPhone). I think the instructions seemed clear to the participant and it was not difficult for her to follow the script throughout. Based on the participant's answers, however, I believe she found the app to be unnecessarily complex, and it was hard to complete some of the tasks correctly. For instance, the second task could not be done correctly, as the download for the Hunger Games reading kept saying "Unavailable" (this was not planned for). In this case, I had to think on my feet and ask the participant to download a different free text. Furthermore, one main difficulty overall was choosing my friend as a participant, as it was hard not to laugh in the beginning or remain a sense of professionalism throughout. If I were to conduct UT sessions for this app in the future, I would probably choose someone I am not as close with or someone who fits the target audience a bit better (i.e. a senior citizen). 
